@@ -1,0 +1,2 @@
+# BAITAP2
+BÀI TẬP VỀ NHÀ 02 - MÔN HỆ QUẢN TRỊ CSDL
