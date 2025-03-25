@@ -220,14 +220,22 @@ Chọn Edit top 200 rows
 ![Screenshot 2025-03-25 075027](https://github.com/user-attachments/assets/64713e05-ca41-46fa-908a-99514d805dfa)
 
 #CHECK
-
+![Screenshot 2025-03-25 084200](https://github.com/user-attachments/assets/da871818-ae85-47c0-a9b6-541107d365bc)
 
 #TẠO BẢNG NULL
+
+![Screenshot 2025-03-25 083532](https://github.com/user-attachments/assets/fa63a5c8-4503-4527-945d-0305c252d96a)
+
 # DKMH ( #@malopHP, #@masv, diemTP,diemthi,phantramthi) 
 #TẠO BẢNG
+![Screenshot 2025-03-25 075605](https://github.com/user-attachments/assets/8f8232e6-d0fc-4e58-a38f-125d8b3eba52)
+
 #CODE CHẠY THÀNH CÔNG
-#CHECK
+![Screenshot 2025-03-25 075211](https://github.com/user-attachments/assets/9a2097e2-44ef-4208-b8e9-fcb01db02a9d)
+
+
 #TẠO BẢNG NULL
+![Screenshot 2025-03-25 083908](https://github.com/user-attachments/assets/3bb73544-4d5c-4ee8-946c-ec2f5fc7c23b)
 
 
 
